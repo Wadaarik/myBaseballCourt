@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548590271394",
+    "project_id": "mybaseballcourt",
+    "storage_bucket": "mybaseballcourt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548590271394:android:ec2db6fd766151ca8550fb",
+        "android_client_info": {
+          "package_name": "com.example.mybaseballcourt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548590271394-fj0vea5tde2tespn6jghqav7058pqfpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2nhB4CGF2Df4NBwuWoV88ffDYsgl64zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548590271394-fj0vea5tde2tespn6jghqav7058pqfpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
